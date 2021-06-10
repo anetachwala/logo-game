@@ -1,0 +1,34 @@
+<svg width="1440" height="1024" viewBox="0 0 1440 1024" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g clip-path="url(#clip0)">
+<rect width="1440" height="1024" fill="#B6C0CF"/>
+<rect width="1440" height="1024" fill="url(#paint0_linear)"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M644.824 417.981C535.19 417.981 446.319 506.857 446.319 616.49C446.319 726.124 535.19 815 644.824 815C754.457 815 843.333 726.124 843.333 616.49C843.333 506.857 754.457 417.981 644.824 417.981Z" fill="#DDE8F0"/>
+<g clip-path="url(#clip1)">
+<path fill-rule="evenodd" clip-rule="evenodd" d="M975.524 106.891L697.383 346.794C689.661 353.455 691.645 365.909 701.049 369.849L1079.65 528.363C1090.08 532.729 1101.02 523.312 1098.25 512.348L997.794 113.93C995.3 104.03 983.253 100.224 975.524 106.891Z" fill="#DDE8F0"/>
+</g>
+<g clip-path="url(#clip2)">
+<path fill-rule="evenodd" clip-rule="evenodd" d="M1349.61 -57.5024C1354.41 -62.401 1361.02 -63.7162 1364.37 -60.436L1449.22 22.7053C1499.44 71.9037 1481.76 171.384 1409.72 244.907C1337.69 318.427 1238.59 338.141 1188.37 288.943L1103.52 205.801C1100.17 202.521 1101.35 195.888 1106.15 190.986L1349.61 -57.5024ZM1060.73 33.4287C1087.14 6.47062 1123.48 -0.758362 1141.89 17.2816C1160.3 35.3215 1153.82 71.7964 1127.4 98.7545C1100.99 125.713 1064.66 132.942 1046.24 114.902C1027.83 96.8617 1034.32 60.3868 1060.73 33.4287ZM1191.16 -99.6916C1217.56 -126.646 1253.9 -133.879 1272.31 -115.839C1290.73 -97.7988 1284.24 -61.3207 1257.83 -34.3658C1231.42 -7.40775 1195.08 -0.175552 1176.67 -18.2155C1158.25 -36.2554 1164.74 -72.7335 1191.16 -99.6916Z" fill="#DDE8F0"/>
+</g>
+<g clip-path="url(#clip3)">
+<path fill-rule="evenodd" clip-rule="evenodd" d="M338.824 739.981C229.19 739.981 140.319 828.857 140.319 938.491C140.319 1048.12 229.19 1137 338.824 1137C448.457 1137 537.333 1048.12 537.333 938.491C537.333 828.857 448.457 739.981 338.824 739.981Z" fill="#DDE8F0"/>
+</g>
+</g>
+<defs>
+<linearGradient id="paint0_linear" x1="720" y1="0" x2="720" y2="1024" gradientUnits="userSpaceOnUse">
+<stop stop-color="#E0EBF1"/>
+<stop offset="1" stop-color="white" stop-opacity="0"/>
+</linearGradient>
+<clipPath id="clip0">
+<rect width="1440" height="1024" fill="white"/>
+</clipPath>
+<clipPath id="clip1">
+<rect width="400" height="400" fill="white" transform="translate(684 354.255) rotate(-40.7787)"/>
+</clipPath>
+<clipPath id="clip2">
+<rect width="380" height="400" fill="white" transform="translate(991 100.719) rotate(-45.5856)"/>
+</clipPath>
+<clipPath id="clip3">
+<rect width="400" height="400" fill="white" transform="translate(139 737)"/>
+</clipPath>
+</defs>
+</svg>

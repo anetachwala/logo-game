@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/zoovu/static/css/main.70ca6f22.chunk.css",
+    "main.js": "/zoovu/static/js/main.d9408b2a.chunk.js",
+    "main.js.map": "/zoovu/static/js/main.d9408b2a.chunk.js.map",
+    "runtime-main.js": "/zoovu/static/js/runtime-main.73154400.js",
+    "runtime-main.js.map": "/zoovu/static/js/runtime-main.73154400.js.map",
+    "static/js/2.3a1bc362.chunk.js": "/zoovu/static/js/2.3a1bc362.chunk.js",
+    "static/js/2.3a1bc362.chunk.js.map": "/zoovu/static/js/2.3a1bc362.chunk.js.map",
+    "index.html": "/zoovu/index.html",
+    "static/css/main.70ca6f22.chunk.css.map": "/zoovu/static/css/main.70ca6f22.chunk.css.map",
+    "static/js/2.3a1bc362.chunk.js.LICENSE.txt": "/zoovu/static/js/2.3a1bc362.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/zoovu/static/media/desktop-1.f44e5475.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.73154400.js",
+    "static/js/2.3a1bc362.chunk.js",
+    "static/css/main.70ca6f22.chunk.css",
+    "static/js/main.d9408b2a.chunk.js"
+  ]
+}
